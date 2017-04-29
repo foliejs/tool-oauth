@@ -30,7 +30,7 @@ router
   // 通过中间件调用Teambition，获取颁发的Access_Token
   .get('/api/v1/connect/teambition/callback', oauth.authCoCallback(key, secret), function * () {
     // todo 可存入session中，也可持久化存储
-    this.body = this.req.callbackBody
+    this.body = this.request.callbackBody
   })
 
 app
