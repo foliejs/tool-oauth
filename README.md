@@ -28,7 +28,7 @@ Example with Tool Oauth2
 * [Generate Use](./examples/co.example.js) (Koa1.x,koa2.x)
 
 
-## test
+## Test
 ```bash
 yarn test
 ```
