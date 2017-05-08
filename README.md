@@ -37,4 +37,4 @@ yarn test
 
 MIT License
 
-Copyright (c) 2017 Tools
+Copyright (c) 2017 Folis
