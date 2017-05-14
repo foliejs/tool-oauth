@@ -7,7 +7,7 @@
                                                                       
 ```
 
-A module for taking advantage of the built-in Tool Oauth2 in node v6.10.2(LTS)
+A module for taking advantage of the built-in Tool Oauth2 in node v6.10.2(LTS).Front end separation is not supported.
 
 ## Installation
 ```bash
