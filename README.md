@@ -10,6 +10,8 @@
 A module for taking advantage of the built-in Tool Oauth2 in node v6.10.2(LTS).Front end separation is not supported.
 
 ## Installation
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/foliejs/tool-oauth.svg)](https://greenkeeper.io/)
 ```bash
 yarn add tool-oauth
 ```
