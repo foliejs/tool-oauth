@@ -7,20 +7,20 @@
   "dependencies": {
     "express": "^4.15.2",
     "http": "^0.0.0",
-    "koa": "^1.2.1",
-    "koa-router": "^5.4.0",
+    "koa": "^2.3.0",
+    "koa-router": "^7.2.1",
     "querystring": "^0.2.0",
     "request": "^2.81.0",
     "should": "^11.2.1",
     "teambition": "^1.2.0"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
+    "chai": "^4.0.2",
     "expect": "^1.20.2",
     "istanbul": "^0.4.5",
     "istanbul-harmony": "^0.3.16",
     "mocha": "^3.2.0",
-    "standard": "^9.0.2"
+    "standard": "^10.0.2"
   },
   "scripts": {
     "start": "NODE_ENV=development nodemon ./app",
